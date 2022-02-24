@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;1,500&family=Rowdies:wght@300;400&display=swap');
+
+
+#Background_image1 {
+    background: url("Background_image-1.jpg");
+    height: 100%;
+    text-align: center;
+    background-size: cover;
+    
+}
+
+    
+
+#Título{
+    color: white;
+    padding-top: 20%;
+    font-size: 70px;
+    line-height: 0.6;
+    -font-family: 'Anton', sans-serif;
+    font-family: 'Playfair Display', serif;
+    
+}
+
+#Background_image2{
+    background: url("Background-image-2.jpeg");
+    height: 80%;
+    text-align: center;
+    background-size: cover;
+    display: inline-block;
+}
+#subtitulo {
+    color: white;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-shadow: 1px 1px  black;
+}
+
+#estilo{
+    padding-top: 1%;
+    color: white;
+}
+
+#Democracia_grega{
+    padding-top: 3%;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+}
+#Background_image3 {
+    background: url("Background-image-3.jpg");
+    height: 100%;
+    text-align: center;
+    background-size: cover;
+    display: inline-block;
+}
+#Democracia
+{
+    padding-top: 10%;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Raleway', sans-serif;;
+    background-color: brown;
+    color: white;
+}
